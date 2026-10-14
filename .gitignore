@@ -27,3 +27,6 @@ project/storage/framework/views/*
 node_modules/
 npm-debug.log
 yarn-error.log
+
+# Dynamic runtime images
+assets/images/capcha_code.png
