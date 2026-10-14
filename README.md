@@ -84,8 +84,3 @@ Visit the website at: **[http://127.0.0.1:8002/](http://127.0.0.1:8002/)**
 - **Payment Gateways:** Stripe, PayPal, Razorpay, Mollie, Authorize.net, 2Checkout, MercadoPago, Instamojo, Cash on Delivery
 - **License System:** IT Nayeem Verified (`license.txt`)
 
-## Support & Contact
-- **Website**: [IT Nayeem](https://itnayeem.com.bd)
-- **Email**: support@itnayeem.com.bd
-- **Phone**: +8801511777744
-
