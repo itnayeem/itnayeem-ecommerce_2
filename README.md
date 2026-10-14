@@ -5,7 +5,7 @@ A complete, modern e-commerce solution customized and maintained by **IT Nayeem*
 - **Designed & Maintained By:** [IT Nayeem](https://itnayeem.com.bd/)
 - **Website:** [https://itnayeem.com.bd/](https://itnayeem.com.bd/)
 - **Support Email:** [support@itnayeem.com.bd](mailto:support@itnayeem.com.bd)
-- **Contact Phone:** [+8801511777744](tel:+8801511777744)
+- **Contact Phone:** [+8801511777744](tel:+8809649117799)
 
 ---
 
@@ -82,3 +82,8 @@ Visit the website at: **[http://127.0.0.1:8002/](http://127.0.0.1:8002/)**
 - **Frontend:** Bootstrap, Blade Templating, jQuery, OwlCarousel
 - **Payment Gateways:** Stripe, PayPal, Razorpay, Mollie, Authorize.net, 2Checkout, MercadoPago, Instamojo, Cash on Delivery
 - **License System:** IT Nayeem Verified (`license.txt`)
+
+  ## Support & Contact
+- **Website**: [IT Nayeem](https://itnayeem.com.bd)
+- **Email**: support@itnayeem.com.bd
+- **Phone**: +8801511777744
